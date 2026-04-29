@@ -140,3 +140,5 @@ AVOID:
 - [Avoid any "React" channel]
 - [Avoid any channel where more than 30% of the thumbnails have a face with a - mouth open(or the so called "pog" expression)]
 - [AVOID topics like social problems/issues, High potential of being biased]
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
